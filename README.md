@@ -1,3 +1,3 @@
-# Socket Server Basico
+# Socket IO
 
-Un servidor de Websockets usando Node, Express y Socket.io
+Ticket generator app with Node & Socket.io
