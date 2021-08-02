@@ -1,3 +1,3 @@
 # Socket IO
 
-Ticket generator app with Node & Socket.io
+Ticket generator app with Node, Express & Socket.io
